@@ -21,7 +21,7 @@ CineVault is a modern, responsive movie discovery application that allows users 
 
 ## 🌐 Live Demo
 
-🔗 https://cinevault-beta.vercel.app/
+🔗 [https://cinevault-beta.vercel.app/](https://cinevault-eta-umber.vercel.app/)
 
 ---
 
