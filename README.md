@@ -240,7 +240,7 @@ React Router - For seamless client-side routing
 💡 "Every great film deserves to be discovered"
 Built with ❤️ by movie enthusiasts, for movie enthusiasts
 
-🌐 Try it now: https://cinevault-beta.vercel.app/
+🌐 Try it now: cinevault-eta-umber.vercel.app
 
 GitHub stars GitHub forks GitHub issues
 
